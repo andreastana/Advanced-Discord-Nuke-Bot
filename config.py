@@ -1,2 +1,2 @@
-prefix = 'prefix'
-token = "bots token"
+prefix = 'fuck!'
+token = "ODk3NTc3NzAzMjcwNjc0NDkz.YWXsYA.d9qxOVjqkY6EmwiODIj__AT3hIg"
